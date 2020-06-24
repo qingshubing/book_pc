@@ -16,7 +16,7 @@ export default class Index extends React.Component {
     console.log(index);
     return (
       <div className={styles.Index}>
-        Index
+        <span>Index</span>
         <Button type="primary">111</Button>
       </div>
     );
